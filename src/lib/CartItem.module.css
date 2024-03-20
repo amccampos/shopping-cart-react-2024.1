@@ -1,0 +1,22 @@
+
+.cartItem h1 {
+  margin: 2pt;
+  font-size: large;
+}
+
+.cartItem p {
+  margin: 2pt;
+  font-size: small;
+}
+
+.cartItem img {
+  width: 60pt;
+  height: 60pt;
+  border-radius: 8px;
+  margin-right: 10pt;
+}
+
+.cartItem {
+  display: flex;
+  align-items: center;
+}
